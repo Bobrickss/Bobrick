@@ -2,7 +2,7 @@
 
 # 👾 Bobrick
 
-### 🎮 [▶ Открыть интерактивный профиль с игрой](https://Bobrickss.github.io/Bobrick/)
+### 🎮 [▶ Open interactive profile with game](https://Bobrickss.github.io/Bobrick/)
 
 ![Kirito](https://shikimori.io/uploads/poster/characters/36765/main_alt-8ca5e21f2ce1a6606e632069f81f2609.jpeg)
 
